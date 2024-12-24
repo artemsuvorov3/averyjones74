@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Front End Web Development using React**
 
-- 👯 I’m looking to collaborate on **AI/ML, scripting/automation projects**
+- 👯 I’m looking to collaborate on **Django, PHP, ASP.NET/C# projects**
 
 - 🤔 I’m looking for help with **critical challenges**
 
-- 📫 How to reach me **averyjonespy@gmail.com**
+- 📫 How to reach me **Upwork**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
